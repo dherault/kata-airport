@@ -1,0 +1,27 @@
+{
+  "name": "kata-airport",
+  "version": "0.0.0",
+  "description": "A kata to teach and learn",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dherault/kata-airport.git"
+  },
+  "keywords": [
+    "kata"
+  ],
+  "author": "Vincent Hardouin <vincenthardouin@icloud.com> (https://github.com/vincenthardouin)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dherault/kata-airport/issues"
+  },
+  "homepage": "https://github.com/dherault/kata-airport#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-dherault": "^1.0.2",
+    "jest": "^24.8.0"
+  }
+}
